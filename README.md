@@ -85,7 +85,6 @@ This ensures privacy, speed, and full offline capability — no account or login
 </p>
 
 <p align="center">
-  <img src="Preview4.png" width="250"/>
   <img src="Preview5.png" width="250"/>
   <img src="Preview6.png" width="250"/>
 </p>
@@ -93,6 +92,10 @@ This ensures privacy, speed, and full offline capability — no account or login
 <p align="center">
   <img src="Preview7.png" width="250"/>
   <img src="Preview8.png" width="250"/>
+</p>
+
+<p align="center">
+  <img src="Preview4.png" width="400"/>
 </p>
 
 ---
